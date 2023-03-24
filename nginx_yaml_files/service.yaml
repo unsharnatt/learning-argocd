@@ -8,7 +8,7 @@ metadata:
 spec:
   ports:
   - port: 80
-    protocal: TCP
+    protocol: TCP
     targetPort: 80
   selector:
     app: nginx
